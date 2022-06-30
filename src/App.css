@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.NotesForm{
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.addNote{
+  margin-top: 20px;
+}
