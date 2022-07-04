@@ -45,3 +45,7 @@
 .addNote{
   margin-top: 20px;
 }
+
+i{
+  cursor: pointer;
+}
